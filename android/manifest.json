@@ -1,0 +1,16 @@
+{
+  "platform": "android",
+  "apps": {
+    "MiniAppOne": {
+      "version": "1.0.0",
+      "bundle": "apps/miniapp-one/index.android.bundle",
+      "mandatory": false
+    },
+    "MiniAppTwo": {
+      "version": "1.0.0",
+      "bundle": "apps/miniapp-two/index.android.bundle",
+      "mandatory": true
+    }
+  },
+  "createdAt": "2026-01-18"
+}
