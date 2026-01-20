@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "bundle": "index.android.v1.0.0.bundle",
+  "version": "1.0.1",
+  "bundle": "index.android.bundle",
   "mandatory": false,
   "createdAt": "2026-01-18"
 }
