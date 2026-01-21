@@ -2,7 +2,7 @@
   "platform": "android",
   "apps": {
     "MiniAppOne": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "bundle": "apps/miniapp-one/index.android.bundle",
       "mandatory": false
     },
